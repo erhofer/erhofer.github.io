@@ -491,7 +491,7 @@ aside.visible {
 
 
 aside button.btnClose:before {
-    content: '\2794';
+    content: '\262D';
 }
 aside button.btnClose {
     position: absolute; 
